@@ -1,8 +1,13 @@
 # hello-world
-A repository for practice
+No message to display here
 
 Hi Humans,
 
-Let us write about ourselves. We love Git Hub.
+Let us write about ourselves. 
+
+Haha 
 
 BTW, This is the first change to this file.
+
+
+This is additional line .
